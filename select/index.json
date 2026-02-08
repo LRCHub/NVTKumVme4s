@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アンバランス",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-08T03:37:11.404389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンバランス",
+      "artist": "KICK THE CAN CREW",
+      "has_synced": false,
+      "path": "select/01_アンバランス_KICK_THE_CAN_CREW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンバランス",
+      "artist": "鶴",
+      "has_synced": false,
+      "path": "select/02_アンバランス_鶴.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンバランス",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/03_アンバランス_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンバランス - Unbalance",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/04_アンバランス_-_Unbalance_AI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンバランス",
+      "artist": "mzsrz",
+      "has_synced": true,
+      "path": "select/05_アンバランス_mzsrz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンバランス・アンサーズ",
+      "artist": "Wasuta",
+      "has_synced": false,
+      "path": "select/06_アンバランス・アンサーズ_Wasuta.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンバランス",
+      "artist": "AI",
+      "has_synced": true,
+      "path": "select/07_アンバランス_AI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンバランス",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_アンバランス_TOOBOE.txt"
+    }
+  ]
+}
